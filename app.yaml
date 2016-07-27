@@ -1,5 +1,6 @@
 #application: schemaorgae
-application: webschemas
+#application: webschemas
+application: sdolresource
 
 version: 1
 runtime: python27
